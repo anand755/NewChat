@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121625473282",
+    "firebase_url": "https://chotusachat.firebaseio.com",
+    "project_id": "chotusachat",
+    "storage_bucket": "chotusachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121625473282:android:f297f4e3a57a36a8",
+        "android_client_info": {
+          "package_name": "com.example.defcon.chotusachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121625473282-no2nobhct5f2n3h03pi6rmhngijr0ob3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.defcon.chotusachat",
+            "certificate_hash": "D997A44B26FC6C206C5CF4652BC25211BCC4B814"
+          }
+        },
+        {
+          "client_id": "121625473282-boj2970q5jbnbp3k9tqesee6h4bbcm1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NU5wmgkX3vi9lAQaGzhyWFDt6OPlrFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121625473282-boj2970q5jbnbp3k9tqesee6h4bbcm1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
